@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=srai86825&label=Profile%20views&color=0e75b6&style=flat" alt="srai86825" /> </p>
 
-- 👨‍💻 All of my projects are available at [saurabh-rai.vercel.app](saurabh-rai.vercel.app)
+- 👨‍💻 My best projects are available at [saurabh-rai.vercel.app](saurabh-rai.vercel.app)
 
 - 💬 Ask me about **Node, Express, Next, React, React-Native**
 
 - 📫 How to reach me **srai86825@gmail.com**
 
-- 📄 Know about my experiences [https://saurabh-rai.vercel.app/static/media/cv.924574a9257ece57776d.pdf](https://saurabh-rai.vercel.app/static/media/cv.924574a9257ece57776d.pdf)
+- 📄 Know about my experiences [Portfolio](https://saurabh-rai.vercel.app/static/media/cv.924574a9257ece57776d.pdf)
 
 - ⚡ Fun fact **I think, I love Animals**
 
