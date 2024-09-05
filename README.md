@@ -13,9 +13,7 @@
 
 - ⚡ Fun fact **I think, I love Animals**
 
-  
 
-https://github.com/user-attachments/assets/17347df4-f81c-4b53-ad08-d7b6c53e7489
 
 
 
