@@ -24,7 +24,7 @@
 <a href="https://auth.geeksforgeeks.org/user/srai86825" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="srai86825" height="30" width="40" /></a>
 </p>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=srai86825&show_icons=true&locale=en&layout=compact" alt="srai86825" /></p>
+<p align="center"><img align="center" src="https://git-stats.saurabhrai.dev/api/top-langs?username=srai86825&layout=donut" alt="srai86825" /></p>
 
 ## Hackathons and Events
 Participated in various hackathons, showcasing skills in rapid development and teamwork.
