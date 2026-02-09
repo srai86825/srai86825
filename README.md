@@ -36,13 +36,6 @@ GCP, Docker, CI/CD, Git
 ### Other
 Data Structures & Algorithms, Problem-Solving, Full Stack Development (Native/Web)
 
-## 📜 Certifications
-
-- **Full Stack Software Developer** - IBM (Jan 2024)
-  [View Certificate](https://coursera.org/account/accomplishments/specialization/certificate/XAUTVM9PTDNF)
-
-- **Complete 2022 Web Bootcamp** - Udemy (Aug 2022)
-  [View Certificate](https://udemy.com/certificate/UC-673a5f35-1c7d-42ee-9ffb-e0d0d21989c8/)
 
 <h3 align="left">🌐 Connect with me:</h3>
 <p align="left">
