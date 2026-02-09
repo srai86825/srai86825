@@ -9,9 +9,8 @@
 
 - 📫 How to reach me **srai86825@gmail.com**
 
-- 📄 Checkout my [Portfolio](https://saurabh-rai.vercel.app/static/media/cv.924574a9257ece57776d.pdf)
+- 📄 Checkout my [Portfolio](https://www.saurabhrai.dev/)
 
-- ⚡ Fun fact **I think, I love Animals**
 
 
 
