@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=srai86825&label=Profile%20views&color=0e75b6&style=flat" alt="srai86825" /> </p>
 
-## � About Me
+##  About Me
 
 I'm an AI engineer focused on **agentic and LLM-powered systems**, building autonomous and evaluation-driven AI workflows. My work centers on designing reliable AI behaviors, memory and reasoning loops, tool-augmented model execution, and system-level orchestration for real-world tasks.
 
