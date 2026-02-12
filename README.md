@@ -28,7 +28,7 @@ C/C++, Python, Java, JavaScript
 React.js, Next.js, React Native, Redux/Context API, Tailwind CSS, Material-UI, Framer Motion, SCSS, jQuery, Bootstrap
 
 ### Backend
-Node.js, Express.js, MongoDB, Prisma ORM, Socket.io, Sanity.io, JWT, REST APIs
+Node.js, Express.js, FastAPI, MongoDB, Prisma ORM, Socket.io, Sanity.io, JWT, REST APIs
 
 ### Cloud & DevOps
 GCP, Docker, CI/CD, Git
